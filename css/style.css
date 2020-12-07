@@ -980,7 +980,7 @@
 /* Banner */
 
 	#banner {
-		background: url("images/overlay.png"), url("../images/banner.jpg");
+		background: url("images/overlay.png"), url("../images/solar.jpg");
 		background-position: center;
 		background-repeat: no-repeat;
 		background-size: cover;
